@@ -1,9 +1,9 @@
 # Team Members 
-  Ayush Mati
-  Chetan Kumar Singh
-  Bhupendra Kumar 
-  Bhaumik Surve
-  Ashish Rawat
+ ## Ayush Mati
+ ## Chetan Kumar Singh
+ ## Bhupendra Kumar 
+ ## Bhaumik Surve
+ ## Ashish Rawat
 # Snake and Ladder Game
 
 Welcome to the Snake and Ladder game, a classic board game brought to life in a React Native mobile application.
